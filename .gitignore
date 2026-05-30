@@ -156,6 +156,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+input/
+output/
+assets/
+.claude/
 
 # Spyder project settings
 .spyderproject

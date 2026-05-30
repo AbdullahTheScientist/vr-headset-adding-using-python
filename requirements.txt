@@ -1,0 +1,11 @@
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+Pillow>=10.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+requests>=2.31.0
+replicate>=0.25.0
+# Head pose — 6DRepNet360 (ResNet-50 backbone, CPU/GPU)
+torch>=2.2.0
+torchvision>=0.17.0
+timm>=0.9.0
